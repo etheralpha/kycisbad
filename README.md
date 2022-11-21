@@ -2,9 +2,9 @@
 
 In the past few years over 600,000 people had their personally identifying information leaked. This was information they provided for KYC/AML purposes, but was retained and mishandled by the companies, leading to the user KYC documents. 
 
-**These documents include user's full names, home addresses, phone number, passport, photo, driving license, DOB, wallet addresses, balances, transactions, and IP address.**
+**These documents include the user's full names, home addresses, phone number, passport, photo, driving license, DOB, wallet addresses, balances, transactions, and IP address.**
 
-These leaks put the users in danger and could face the threat of violence and robbery following these “doxing” events. Some victims have reported being threatened via phone and email. 
+The leaks put the users in danger and could face the threat of violence and robbery following these “doxing” events. Some victims have reported being threatened via phone and email. 
 
 
 ## Incidents
