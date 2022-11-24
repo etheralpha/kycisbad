@@ -31,4 +31,5 @@ Bittrex   | 12/17           | unknown        | full name, photo, passport       
 - Ledger - No KYC data leaked. This was a point of sales data leak.
 
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
+<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css"> -->
+<link rel="stylesheet" href="https://cdn.simplecss.org/simple.css">
