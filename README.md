@@ -33,8 +33,8 @@ Bittrex   | 12/17           | unknown        | full name, photo, passport       
 
 
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<link rel="stylesheet" href="https://raw.githubusercontent.com/etheralpha/kycisbad/theme/theme.css">
+<link rel="stylesheet" href="https://etheralpha.github.io/kycisbad/theme.css">
 
 
-k
+l
 
