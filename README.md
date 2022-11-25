@@ -1,3 +1,7 @@
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="https://etheralpha.github.io/kycisbad/theme.css">
+
+
 # KYC Is Bad!
 
 In the past few years over 600,000 people had their personally identifying information leaked. This was information they provided for KYC/AML purposes, but was retained and mishandled by the companies, leading to the user KYC documents. 
@@ -32,9 +36,8 @@ Bittrex   | 12/17           | unknown        | full name, photo, passport       
 
 
 
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<link rel="stylesheet" href="https://etheralpha.github.io/kycisbad/theme.css">
 
 
-l
+
+m
 
