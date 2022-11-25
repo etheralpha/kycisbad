@@ -1046,4 +1046,12 @@ body table td {
 body {
   color: rgb(201 209 217 / 90%);
 }
-
+h1, h2, h3, h4 {
+  color: rgb(201 209 217 / 100%);
+}
+#github-link svg {
+  color: rgb(201 209 217 / 100%);
+  transform: translateX(-50%);
+  margin-left: 50%;
+  margin-top: 30px;
+}
