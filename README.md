@@ -28,3 +28,8 @@ Bittrex   | Dec-2017     | unknown        | full name, photo, passport          
    * <https://bitcoinmagazine.com/business/how-hubspot-data-breach-hits-bitcoiners>
 - MtGox - No KYC data leaked.
 - Ledger - No KYC data leaked. This was a point of sales data leak.
+
+
+
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="https://etheralpha.github.io/kycisbad/theme.css">
