@@ -39,7 +39,11 @@ Bittrex   | 12/17           | unknown        | full name, photo, passport       
 
 ## Contribute
 
-Contributions are welcomed and encouraged! Please submit a PR to https://github.com/etheralpha/kycisbad/.
+Contributions to help maintain and improve this info is welcomed and encouraged! Please submit a PR to https://github.com/etheralpha/kycisbad/.
 
-:n
+[![contribute](https://cdn-icons-png.flaticon.com/512/25/25231.png)](https://github.com/etheralpha/kycisbad/)
+
+|     |
+|:---:|
+| [Contribute](https://github.com/etheralpha/kycisbad/)
 
