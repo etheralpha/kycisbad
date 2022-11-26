@@ -1035,7 +1035,7 @@ body [data-dev-analytics-enabled] [data-feeds-analytics]:hover::after {
 body {
   max-width: 650px;
   margin: 0px auto;
-  padding: 40px 20px 80px 20px;
+  padding: 20px 20px 80px 20px;
 }
 body table th {
   text-align: left;
