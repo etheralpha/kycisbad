@@ -8,7 +8,7 @@ Over the past few years more than 600,000 people have had their personally ident
 
 **KYC documents may include the user's full names, home addresses, phone number, passport, photo, driving license, DOB, wallet addresses, balances, transactions, and IP address.**
 
-Theese leaks put the users in danger and could face the threat of violence and robbery following these “doxing” events. Some victims have reported being threatened via phone and email. 
+These leaks put the users in danger and could face the threat of violence and robbery following these “doxing” events. Some victims have reported being threatened via phone and email. 
 
 
 ## Incidents
