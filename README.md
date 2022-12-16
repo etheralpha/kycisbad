@@ -1,5 +1,5 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<link rel="stylesheet" href="https://etheralpha.github.io/kycisbad/theme.css">
+<link rel="stylesheet" href="https://etheralpha.github.io/readme-themes/midnight.css">
 
 
 # KYC Is Bad!
