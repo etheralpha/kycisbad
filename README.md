@@ -4,6 +4,8 @@
 
 # KYC Is Bad!
 
+![](https://i.imgur.com/hQqlbCD.png)
+
 Over the past few years more than 600,000 people have had their personally identifying information leaked. This information was provided to companies for KYC/AML purposes, but was retained and mishandled leading to the KYC documents being exposed. 
 
 **KYC documents may include the user's full names, home addresses, phone number, passport, photo, driving license, DOB, wallet addresses, balances, transactions, and IP address.**
